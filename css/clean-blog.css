@@ -6,6 +6,11 @@ h2{
    font-weight: 600;
 }
 
+a:hover {
+    color: #93C43E;
+    text-decoration: none;
+}
+
 .intro-header{
     height:400px;
 }
@@ -17,7 +22,6 @@ h2{
     margin-right: 10px;
 }
 .post-list a:hover {
-    text-decoration: none;
     -webkit-transition: color 500ms ease-out;
     -moz-transition: color 2500ms ease-out;
     -o-transition: color 500ms ease-out;
