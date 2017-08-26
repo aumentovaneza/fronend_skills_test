@@ -1,3 +1,10 @@
 .intro-header{
     height:400px;
 }
+.social-links {
+    display: -webkit-inline-box;
+}
+
+.social-links p {
+    margin-right: 10px;
+}
