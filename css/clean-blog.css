@@ -27,3 +27,11 @@ a:hover {
     -o-transition: color 500ms ease-out;
     transition: color 500ms ease-out;
 }
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 7px 15px !important;
+  width: auto;
+}
