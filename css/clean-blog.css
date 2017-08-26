@@ -8,3 +8,10 @@
 .social-links p {
     margin-right: 10px;
 }
+.post-list a:hover {
+    text-decoration: none;
+    -webkit-transition: color 500ms ease-out;
+    -moz-transition: color 2500ms ease-out;
+    -o-transition: color 500ms ease-out;
+    transition: color 500ms ease-out;
+}
