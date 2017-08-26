@@ -12,6 +12,7 @@ a:hover {
 }
 
 .intro-header{
+    background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
     width: auto;
