@@ -12,6 +12,10 @@ a:hover {
 }
 
 .intro-header{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: auto;
+    background-position: center;
     height:400px;
 }
 .social-links {
